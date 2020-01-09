@@ -1,0 +1,7 @@
+implement backprop
+implement convolutions
+verify backprop with non linear seperable problem xor
+simplify the network to verify the algorithms
+try colors
+try colored images
+try more complicated images
